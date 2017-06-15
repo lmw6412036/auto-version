@@ -1,6 +1,6 @@
 {
     "name": "auto-version",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "auto-version",
     "main": "main.js",
     "scripts": {
@@ -20,7 +20,6 @@
     },
     "homepage": "https://github.com/lmw6412036/auto-version#readme",
     "dependencies": {
-        "hprose": "^2.0.43",
         "thunkify": "^2.1.2"
     }
 }
