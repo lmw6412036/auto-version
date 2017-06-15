@@ -1,8 +1,8 @@
 {
     "name": "auto-version",
-    "version": "1.0.4",
+    "version": "1.0.7",
     "description": "auto-version",
-    "main": "index.js",
+    "main": "main.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
