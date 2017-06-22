@@ -9,8 +9,10 @@
 ######1
 `npm install -save-dev auto-version`
 ######2
+```bash
 >`let autoVersion = require("auto-version");//返回一个generator函数`
 >`let path = require("path");`
 >`let co = require('hprose').co;`
 >`let file = path.join(__dirname, "./package.json");`
 >`co(autoVersion(file));`
+ ```
